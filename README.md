@@ -17,8 +17,7 @@
 - Scikit-learn (Gradient Boosting)
 - FastF1 API
 
-
-4. Open `AusGP_F1_Winner_Predictor.ipynb` and execute the notebook cells to see predictions.
+Open `AusGP_F1_Winner_Predictor.ipynb` and execute the notebook cells to see predictions.
 
 ## 🎯 Potential Improvements
 
